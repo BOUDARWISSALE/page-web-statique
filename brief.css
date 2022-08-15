@@ -1,0 +1,54 @@
+head{ 
+    background-image: url("corona.jfif");
+}   
+article{ 
+     background-color: rgb(247, 211, 4);
+     color: rgb(64, 64, 179);
+     text-align: center;
+}
+h3{
+    color: rgb(9, 9, 9);
+    text-align: center;
+}
+h2{
+
+    color: rgb(64, 64, 179);
+}
+ul{
+    text-align: center;
+}
+section{
+    color: rgb(64, 64, 179);
+}
+.header .logo-img { 
+    height: 70px;
+    width: auto;
+    transition: all 0,3s;
+ }
+.header .logo img:hover { 
+   transform: scale(1.2);
+}
+.header .nav-links li { 
+    list-style: none;
+ }
+.header .nav-links li { 
+    display:inline-block;
+    padding: 0 20px;
+ }
+.header .nav-links li { 
+    transform: scale(1.1);
+ }
+.header .nav-links li { 
+    font-size: 700;
+ }
+img { 
+    width: 30 %;
+}
+section {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    text-align: center;
+}   
+figcaption{
+    
+}
