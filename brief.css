@@ -1,5 +1,5 @@
-head{ 
-    background-image: url("corona.jfif");
+header{ 
+    background-image: url(corona.jfif);
 }   
 article{ 
      background-color: rgb(247, 211, 4);
@@ -16,6 +16,11 @@ h2{
 }
 ul{
     text-align: center;
+}
+nav{
+    position:relative;
+    left: 80%;
+    top: -2cm;
 }
 section{
     color: rgb(64, 64, 179);
@@ -49,6 +54,3 @@ section {
     grid-template-columns: auto auto auto ;
     text-align: center;
 }   
-figcaption{
-    
-}
